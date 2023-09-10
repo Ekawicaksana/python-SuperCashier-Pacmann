@@ -51,7 +51,7 @@ bisa berjalan dengan lancar.
 ![Test Case 4](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/219596dea8dc7e5131deb32e799ce9ac619c8c59/Folder/Test%20Case%204.png)
 
 ### Test Case 5
-![Test Case 5]
+![Test Case 5](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/8e834d7587336744f313c2d1c219c37dcd3e1f75/Folder/Test%20Case%205.png)
 
 
 ### Test Case 6
