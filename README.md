@@ -44,7 +44,7 @@ bisa berjalan dengan lancar.
 
 
 ### Test Case 3
-![Test Case 3]
+![Test Case 3](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/2a2d66d9c612552d3325b8bc6dd237f1aa603ed7/Folder/Test%20Case%203.png)
 
 
 ### Test Case 4
