@@ -31,28 +31,39 @@ bisa berjalan dengan lancar.
 ![Flowchart](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/085604bd5aa0bbf425d0f233c43a8f05f91250cf/Screenshot%202023-09-10%20at%2019.22.08.png)
 
 ## Penjelasan Kode Program
+- `Transaction()` : Class object untuk menyimpan seluruh fungsi yang telah ditentukan dalam memproses transaksi.
+- `add_item()` : Fungsi untuk menambahkan dan menyimpan item.
+- `update_item_name()` : Fungsi untuk memperbaharui nama item.
+- `update_item_qty()` : Fungsi untuk memperbaharui jumlah item.
+- `update_item_price()` : Fungsi memperbaharui harga item.
+- `delete_item()` : Fungsi untuk menghapus satu atau lebih item.
+- `reset_transaction()` : Fungsi untuk me-reset item yang telah diinput.
+- `print_items()` : Fungsi untuk menampilkan daftar items yang telah diinput dan tersimpan.
+- `total_price()` : Fungsi untuk menghitung dan menampilkan total belanja, diskon, dan total bayar.
 
 
 
 ## Test Case
 ### Test Case 1
+Menambahkan Item
 ![Test Case 1](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/01cd7a8aed4a8ff98ec7cd7e742d543b3786ef28/Folder/Test%20Case%201.png)
 
-
 ### Test Case 2
+Memperbaharui Item
 ![Test Case 2](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/7759a12f77d9e03c5740d4d3e86d33ee127bce4d/Folder/Test%20Case%202.png)
 
-
 ### Test Case 3
+Menghapus Salah Satu Item
 ![Test Case 3](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/2a2d66d9c612552d3325b8bc6dd237f1aa603ed7/Folder/Test%20Case%203.png)
 
-
 ### Test Case 4
+Reset Seluruh Transaksi
 ![Test Case 4](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/219596dea8dc7e5131deb32e799ce9ac619c8c59/Folder/Test%20Case%204.png)
 
 ### Test Case 5
+Mencetak Item Yang Sudah Diinput
 ![Test Case 5](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/8e834d7587336744f313c2d1c219c37dcd3e1f75/Folder/Test%20Case%205.png)
 
-
 ### Test Case 6
+Menghitung Total Belanja
 ![Test Case 6](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/c1259c9f2eb1cdc0789cf3c9f3f5b52441e0a1cb/Folder/Test%20Case%206.png)
