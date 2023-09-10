@@ -40,7 +40,7 @@ bisa berjalan dengan lancar.
 
 
 ### Test Case 2
-![Test Case 2]
+![Test Case 2](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/7759a12f77d9e03c5740d4d3e86d33ee127bce4d/Folder/Test%20Case%202.png)
 
 
 ### Test Case 3
