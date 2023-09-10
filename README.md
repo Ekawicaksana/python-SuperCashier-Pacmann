@@ -55,4 +55,4 @@ bisa berjalan dengan lancar.
 
 
 ### Test Case 6
-![Test Case 6]
+![Test Case 6](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/c1259c9f2eb1cdc0789cf3c9f3f5b52441e0a1cb/Folder/Test%20Case%206.png)
