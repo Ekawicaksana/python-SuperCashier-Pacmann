@@ -35,3 +35,17 @@ bisa berjalan dengan lancar.
 
 
 ## Test Case
+### Test Case 1
+![Test Case 1](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/01cd7a8aed4a8ff98ec7cd7e742d543b3786ef28/Folder/Test%20Case%201.png)
+
+
+### Test Case 2
+![Test Case 2]
+
+
+### Test Case 3
+![Test Case 3]
+
+
+### Test Case 4
+![Test Case 4]
