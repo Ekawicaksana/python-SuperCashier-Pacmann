@@ -28,6 +28,10 @@ bisa berjalan dengan lancar.
 **Tabulate** : Untuk mencetak format tabel agar hasil yang dikeluarkan dengan method memiliki visual yang lebih baik
 
 ## FlowChart
+![Flowchart](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/085604bd5aa0bbf425d0f233c43a8f05f91250cf/Screenshot%202023-09-10%20at%2019.22.08.png)
+
+## Penjelasan Kode Program
 
 
-## 
+
+## Test Case
