@@ -48,4 +48,11 @@ bisa berjalan dengan lancar.
 
 
 ### Test Case 4
-![Test Case 4]
+![Test Case 4](https://github.com/Ekawicaksana/python-SuperCashier-Pacmann/blob/219596dea8dc7e5131deb32e799ce9ac619c8c59/Folder/Test%20Case%204.png)
+
+### Test Case 5
+![Test Case 5]
+
+
+### Test Case 6
+![Test Case 6]
